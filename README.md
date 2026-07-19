@@ -1,6 +1,6 @@
 #  Üniversite Projeleri & Akademik Çalışmalar
 
-Bu depo, Yazılım Mühendisliği lisans eğitimim süresince ve akademik çalışmalar kapsamında geliştirdiğim ileri düzey projeleri, laboratuvar uygulamalarını ve sistem mimarilerini içermektedir.
+Bu depo, Yazılım Mühendisliği lisans eğitimim süresince ve akademik çalışmalar kapsamında geliştirdiğim projeleri, laboratuvar uygulamalarını ve sistem mimarilerini içermektedir.
 
 ##  Depo İçeriği ve Proje Mimarileri
 
